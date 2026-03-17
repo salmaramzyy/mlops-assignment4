@@ -1,0 +1,6 @@
+tensorflow
+pandas
+numpy
+mlflow
+flake8
+torch
